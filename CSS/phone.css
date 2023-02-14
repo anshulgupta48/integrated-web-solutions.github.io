@@ -1,0 +1,52 @@
+/* Navbar Section */
+#image {
+    text-align: center;
+    margin: 0% 35%;
+}
+
+#image img {
+    width: 80%;
+}
+
+#title {
+    display: none;
+}
+
+#right {
+    display: none;
+}
+
+
+/* Job Section */
+#job {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+
+/* Form Section */
+#form h1 {
+    font-size: 25px;
+}
+
+#main-form {
+    width: 70%;
+}
+
+.btn button {
+    margin: 5px 15px;
+}
+
+
+/* Contact Section */
+#contact h4 {
+    font-size: 20px;
+}
+
+
+/* Footer Section */
+#footer {
+    font-size: 17px;
+}
